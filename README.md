@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=4268F7&background=EFF6FF00&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+perfil.;Sinta-se+a+vontade!)](https://git.io/typing-svg)<br>
 Uma pessoa apaixonada por Tecnologia ❤️.<br>
 Formado em Análise e Desenvolvimento de Sistemas ✅.<br>
-Casado, 29 anos 💑.<br>
+Casado 💑. 29 anos.<br>
 Elói Mendes/MG 🌎.
 
 ## 🔗 Links<br>
