@@ -34,8 +34,7 @@ Cursos em metodologias ágeis (**Kanban**) e cloud (**Amazon AWS**).
 
 ### ✏️ **Design**
 <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"><br><br>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"><br><br>
 
 ### ⚡ **Database**
 <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
