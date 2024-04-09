@@ -16,17 +16,6 @@ Elói Mendes/MG 🌎.
 
 Trabalhei com funções **administrativas** e **financeiras** ao longo da minha carreira profissional, porém ainda estou no aguardo da minha primeira experiência em **Programação**.<br>
 Apesar de não ter conseguido **ainda**, nunca deixei de exercitar e aprender novas tecnologias.<br>
-No meu último trabalho (**Prorural Agro & Pet**), desenvolvi para a empresa um site **comercial**. 👇
-
-## 🔽 Site
-
-- [Prorural Agro & Pet](https://www.agroprorural.com.br)
-
-## Stack utilizada
-
-**Front-end:** HTML, CSS e Bootstrap 5.
-
-**Back-end:** PHP.<br>
 
 ➡️ Mais de **40 cursos na área**, todos com **certificado**. Tenho diversos projetos (muitos **privados**) que vão desde cronômetros em Java Script até Dashboards completas e dinâmicas.<br>
 Cursos em metodologias ágeis (**Kanban**) e cloud (**Amazon AWS**).
