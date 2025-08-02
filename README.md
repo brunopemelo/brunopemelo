@@ -20,7 +20,6 @@ Elói Mendes/MG 🌎.
 <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="next" src="hhttps://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"><br><br>
 
 ### ✏️ **Design**
@@ -40,10 +39,4 @@ Elói Mendes/MG 🌎.
 <img align="center" alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 <img align="center" alt="netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7>
 <img align="center" alt="chatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"><br><br>
-
-## Cursos em andamento:
-### 🔥 **Conclusão: Setembro/24**
-<img align="center" alt="reactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brunopemelo&theme=dark&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
