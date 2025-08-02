@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=4268F7&background=EFF6FF00&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+perfil.;Sinta-se+a+vontade!)](https://git.io/typing-svg)<br>
 Uma pessoa apaixonada por Tecnologia ❤️.<br>
 Formado em Análise e Desenvolvimento de Sistemas ✅.<br>
-Casado 💑. 30 anos.<br>
+Casado 💑. 32 anos.<br>
 Elói Mendes/MG 🌎.
 
 ## 🔗 Links<br>
@@ -10,16 +10,6 @@ Elói Mendes/MG 🌎.
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/brunopemelo)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535987171280)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunopemelo)<br>
-
-## ⭐ Um pouco sobre mim<br>
-
-Trabalhei com funções **administrativas** e **financeiras** ao longo da minha carreira profissional, porém ainda estou no aguardo da minha primeira experiência em **Programação**.<br>
-Apesar de não ter conseguido **ainda**, nunca deixei de exercitar e aprender novas tecnologias.<br>
-
-➡️ Mais de **40 cursos na área**, todos com **certificado**. Tenho diversos projetos (muitos **privados**) que vão desde cronômetros em Java Script até Dashboards completas e dinâmicas.<br>
-Cursos em metodologias ágeis (**Kanban**) e cloud (**Amazon AWS**).
-
-## Tecnologias que utilizo em outros projetos:
 
 ### 🚀 **Skills**
 <div style="display: inline_block">
